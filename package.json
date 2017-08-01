@@ -1,0 +1,19 @@
+{
+  "name": "react-ui-common",
+  "version": "1.0.0",
+  "description": "React ui common function set",
+  "main": "index.js",
+  "keywords": [
+    "react-ui",
+    "react-nav"
+  ],
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^15.4.2",
+    "react-addons-pure-render-mixin": "^15.5.2",
+    "react-dom": "^15.4.2",
+    "react-router-dom": "^4.1.0"
+  },
+  "author": "741987294@qq.com",
+  "license": "ISC"
+}
