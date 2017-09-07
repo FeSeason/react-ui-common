@@ -1,10 +1,6 @@
 /**
- * Created by Season on 17/8/1.
+ * Created by Season on 17/9/7.
  * QQ: 741876294
  */
-
-import NavCircle from './navCircle'
-
-export {
-	NavCircle
-}
+module.exports = require('./lib/index')
+exports.NavCircle = require('./lib/index')

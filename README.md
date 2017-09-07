@@ -11,7 +11,7 @@
  安装具体使用方式:
  
  ```
- import { navCircle } from 'react-ui-common'      
+ import { NavCircle } from 'react-ui-common'      
  
  let navInfo = {
  
