@@ -3,4 +3,5 @@
  * QQ: 741876294
  */
 module.exports = require('./lib/index')
+
 exports.NavCircle = require('./lib/index')
